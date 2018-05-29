@@ -1,0 +1,20 @@
+.CriteriRicerca {
+/*	background-color: green; */
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 30%;
+	float: left;
+}
+
+.ListaLocali { 
+/*	background-color: red; */
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	width: 70%;
+}
+
+header {
+	text-align: center;
+}
